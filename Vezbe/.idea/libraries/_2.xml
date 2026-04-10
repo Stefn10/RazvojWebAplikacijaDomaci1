@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Вежбе 2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Вежбе 2/client.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Вежбе 2/server.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
