@@ -9,9 +9,9 @@ import java.io.InputStreamReader;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Locale;
 
-public class InitialQuotesLoader {
+//utility klasa
+public final class InitialQuotesLoader {
 
     private InitialQuotesLoader(){
     }

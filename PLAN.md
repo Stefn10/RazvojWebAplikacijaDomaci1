@@ -4,7 +4,7 @@
 - [ ] biblioteka za JSON
 ---
 - [x] Razumeti helper-server Main klasu
-
+- [ ] Koji ostali hash-evi postoje sem LinkedHashMap i cemu koji sluzi?
 - [ ] Fokusiraj se ovim redom:
 
 6. **`helper-server` util klase**
